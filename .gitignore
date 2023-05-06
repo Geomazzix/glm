@@ -1,4 +1,7 @@
 # Compiled Object files
+.vcxproj
+.vcxproject.filters
+
 *.slo
 *.lo
 *.o
@@ -59,3 +62,5 @@ build*
 /CMakeSettings.json
 .DS_Store
 *.swp
+Glm.vcxproj
+Glm.vcxproj.filters
